@@ -1,0 +1,1 @@
+For the purpose of describing the structure of XML documents, their validation, processing and creation, this tool was developed by Syntea Software Group Inc. It allows the user to not only define the structure of XML documents, but also to describe specifically their processing and construction.
