@@ -1,7 +1,9 @@
 Licence Terms
 
 Article 1
+
 License object and scope
+
 1.1	Syntea software group a.s., with the registered seat at Tursko 142, 252 65 Prague-west, ID: 27187951 (hereinafter referred to only as “Syntea”) has all copyright property rights to the XML documents structure description tool program referred to as  “X-definitions” (“Software”).
 
 1.2	Syntea grants to the User a nonexclusive, non-transferable and non-assignable free of charge license to use the Software (including user documentation and source code to the Software) for non-commercial educational, research, tutorial, study or scientific purposes. The licence is time limited for the duration of the copyright property rights to the Software.
@@ -9,6 +11,7 @@ License object and scope
 
 
 Article 2
+
 Copyright
 
 2.1	Title to the Software (including all its updates and new versions and to Software user documentation), as well as to its all copyright property rights continue to remain with Syntea.  Copyright notices and any other proprietary right notices included in the Software may not be deleted or modified.
@@ -19,6 +22,7 @@ Copyright
 
 
 Article 3
+
 Technical Support
 
 3.1	Syntea will use reasonable efforts, either by telephone or in writing, to assist the User in solving specific problems with the installation or use of the Software.
@@ -29,6 +33,7 @@ Technical Support
 
 
 Article 4
+
 Warranty, Liability for damage
 
 4.1	The Software is granted on a „as-is“ basis, without any warranties related to its content or Syntea’s liability for errors included therein, unless expressly specified otherwise hereinafter.
@@ -45,6 +50,7 @@ Warranty, Liability for damage
 
 
 Article 5
+
 Licence Termination
 
 Syntea shall have the rigt to terminate the license granted in accordnace herewith,  with the immediate effect, upon delivery to the User of Syntea’s written termination notice for a breach of these license terms by the User.  The User shall thereupon delete and destroy the Software and the documentation relating to it, including all their copies.
