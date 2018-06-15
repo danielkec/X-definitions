@@ -1,11 +1,6 @@
-
-
 Licence Terms
-
  
-
 Article 1
-
 License object and scope
 
     Syntea software group a.s., with the registered seat at Tursko 142, 252 65 Prague-west, ID: 27187951 (hereinafter referred to only as “Syntea”) has all copyright property rights to the XML documents structure description tool program referred to as “X-definitions” (“Software”).
@@ -13,7 +8,6 @@ License object and scope
     The Software may not be used for commercial purposes.
 
 Article 2
-
 Copyright
 
     Title to the Software (including all its updates and new versions and to Software user documentation), as well as to its all copyright property rights continue to remain with Syntea. Copyright notices and any other proprietary right notices included in the Software may not be deleted or modified.
@@ -21,7 +15,6 @@ Copyright
     Identical copyright notices and any other proprietary rights notices to the Software must be reproduced on all copies of the Software, as authorized in accordance with these license terms. The User shall name Syntea and a reference to the Software in all published works and projects created using the Software.
 
 Article 3
-
 Technical Support
 
     Syntea will use reasonable efforts, either by telephone or in writing, to assist the User in solving specific problems with the installation or use of the Software.
@@ -29,7 +22,6 @@ Technical Support
     Syntea may from time to time, make available new versions, updates and corrective codes of the Software.
 
 Article 4
-
 Warranty, Liability for damage
 
     The Software is granted on a „as-is“ basis, without any warranties related to its content or Syntea’s liability for errors included therein, unless expressly specified otherwise hereinafter.
@@ -40,7 +32,6 @@ Warranty, Liability for damage
     Bearing in mind the free grant of the license to the Software, Syntea shall not be liable for damage, including indirect damage (including, but not limited to consequential, incidental damage, loss of profits, interruption of business, loss of data or any other financial loss) incurred as a result of the Software use or impossibility thereof.
 
 Article 5
-
 Licence Termination
 
 Syntea shall have the rigt to terminate the license granted in accordnace herewith,  with the immediate effect, upon delivery to the User of Syntea’s written termination notice for a breach of these license terms by the User.  The User shall thereupon delete and destroy the Software and the documentation relating to it, including all their copies.
